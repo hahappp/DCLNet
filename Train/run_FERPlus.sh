@@ -1,0 +1,1 @@
+python Train/train.py --dataset FERPlus --num_classes 7 --lr 5e-5 --batch-size 64 --label-smoothing 0.05
