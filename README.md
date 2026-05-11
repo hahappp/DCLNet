@@ -1,4 +1,4 @@
-# DGLNet
+# DGLNet: Multi-Scale Adaptive Context Aggregation for Lightweight Facial Expression Recognition
 
 Quick Start Environment setup for DGLNet 
 This code is directly related to the manuscript currently submitted to The Visual Computer
@@ -39,3 +39,13 @@ bash Train/TrainDGLNet_RAFDB.sh
 ### FER2013 Dataset
 
 bash Train/TrainDGLNet_FER2013.sh
+
+## Citations
+If you find our work useful in your research, please consider citing:
+```python  
+@article{
+   title = {DGLNet: Multi-Scale Adaptive Context Aggregation for Lightweight Facial Expression Recognition},
+   url={[https://github.com/CYChe1/NLFER](https://github.com/hahappp/DCLNet)},
+   journal = {{The Visual Computer}}
+}
+```
